@@ -1,9 +1,8 @@
-Timex
+Tweete
 =============
 
-![](images/icon.png)
 
-Timex is a Chrome extension that keeps track of the surfing time and display it along with random quote about importance of time, whenever accessed.
+Tweete is a desktop application that provides interface to interact with Twitter using Consumer Key and Access Token of the Twitter account. The application is designed in java and interaction is done using Twitter4j API.
 
 [Direct download of crx file] (https://github.com/Akash1684/Timex/blob/master/Timex.crx?raw=true)
 
