@@ -1,24 +1,37 @@
 Tweete
 =============
 
+Tweete is a desktop application that provides interface to interact with Twitter using Consumer Key and Access Token of the Twitter account [this will help] (https://twittercommunity.com/t/how-do-i-find-my-consumer-key-and-secret/646). The application is designed in java and interaction is done using Twitter4j API.
 
-Tweete is a desktop application that provides interface to interact with Twitter using Consumer Key and Access Token of the Twitter account. The application is designed in java and interaction is done using Twitter4j API.
+[Direct download of jar file] (https://github.com/Akash1684/Tweete/blob/master/Executable%20JAR.zip?raw=true)
 
-[Direct download of crx file] (https://github.com/Akash1684/Timex/blob/master/Timex.crx?raw=true)
+*Please your own keys and access tokens. Keys present in the program will be revoked after deployement.*
 
-Screenshot
----
+Tweete, at present provide three functionalities:
+* Update Status
+* Send Direct Messages
+* View previous tweets
 
-![](Screenshot.jpg)
-
-Above is the screenshot, displaying time spent on web since the installation of the extension.
+*Refer to screenshots* 
 
 Prerequisite
 ---
 
-* **Chrome** browser (Download from [here](https://www.google.co.in/chrome/browser/desktop/))
+* Access Token and Access Token Secret.
+* Consumer Key and Consumer Secret.
+* JRE>=v6.
 
-Installation
+Up and Running!!
 ------------
 
-In Chrome, choose Window > Extensions.  Drag Timex.crx into the page that appears.
+* Download `Executable JAR.zip` and double click on `Tweete.jar`.
+
+**OR**
+
+* Compile and Run `src/tweete/Tweete.java`.
+
+
+**NOTE**
+* Keys and access token will not be usable, since access will be revoked just after deployment. 
+* This repository is under active development
+* More functionalities will be added
