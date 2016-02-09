@@ -26,7 +26,7 @@ Up and Running!!
 
 * Download `Executable JAR.zip` and double click on `Tweete.jar`.
 
-**OR**
+                     **OR**
 
 * Compile and Run `src/tweete/Tweete.java`.
 
