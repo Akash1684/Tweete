@@ -24,15 +24,13 @@ Prerequisite
 Up and Running!!
 ------------
 
+Following are the two ways through which application can be accessed:
 * Download `Executable JAR.zip` and double click on `Tweete.jar`.
-
-                     **OR**
-
 * Compile and Run `src/tweete/Tweete.java`.
 
 
 
-
+<br><br>
 
 
 **NOTE**
