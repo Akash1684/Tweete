@@ -37,3 +37,4 @@ Following are the two ways through which application can be accessed:
 * Keys and access token will not be usable, since access will be revoked just after deployment. 
 * This repository is under active development
 * More functionalities will be added
+* LICENSE.md - the terms of license of this software
