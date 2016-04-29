@@ -51,10 +51,10 @@ public class Tweete {
         
         ConfigurationBuilder cb = new ConfigurationBuilder();
             cb.setDebugEnabled(true)
-              .setOAuthConsumerKey("640Q5RQogorlKUEnPTTnclsay")
-              .setOAuthConsumerSecret("JYbTe3rrEhgGtriclYXyOlrt43GkfxIP47ECxXdRgqnmExDOka")
-              .setOAuthAccessToken("4547223504-oSqGqZaeWbdN3lnEPnrzcG6wt7BuErIaBiOU7cl")
-              .setOAuthAccessTokenSecret("LOSWm9Y3eMCLlAHtF5dB8Q6rNL3pMk3hmgcZ8lLed0dzI");
+              .setOAuthConsumerKey("######################")
+              .setOAuthConsumerSecret("######################")
+              .setOAuthAccessToken("############################################")
+              .setOAuthAccessTokenSecret("############################################");
              TwitterFactory tf = new TwitterFactory(cb.build());
              Twitter twitter = tf.getInstance();
          
@@ -92,10 +92,10 @@ public class Tweete {
         
         ConfigurationBuilder cb = new ConfigurationBuilder();
             cb.setDebugEnabled(true)
-              .setOAuthConsumerKey("640Q5RQogorlKUEnPTTnclsay")
-              .setOAuthConsumerSecret("JYbTe3rrEhgGtriclYXyOlrt43GkfxIP47ECxXdRgqnmExDOka")
-              .setOAuthAccessToken("4547223504-oSqGqZaeWbdN3lnEPnrzcG6wt7BuErIaBiOU7cl")
-              .setOAuthAccessTokenSecret("LOSWm9Y3eMCLlAHtF5dB8Q6rNL3pMk3hmgcZ8lLed0dzI");
+              .setOAuthConsumerKey("######################")
+              .setOAuthConsumerSecret("######################")
+              .setOAuthAccessToken("############################################")
+              .setOAuthAccessTokenSecret("############################################");
              TwitterFactory tf = new TwitterFactory(cb.build());
              Twitter twitter = tf.getInstance();
          
@@ -133,10 +133,10 @@ public class Tweete {
     {
         ConfigurationBuilder cb = new ConfigurationBuilder();
             cb.setDebugEnabled(true)
-              .setOAuthConsumerKey("640Q5RQogorlKUEnPTTnclsay")
-              .setOAuthConsumerSecret("JYbTe3rrEhgGtriclYXyOlrt43GkfxIP47ECxXdRgqnmExDOka")
-              .setOAuthAccessToken("4547223504-oSqGqZaeWbdN3lnEPnrzcG6wt7BuErIaBiOU7cl")
-              .setOAuthAccessTokenSecret("LOSWm9Y3eMCLlAHtF5dB8Q6rNL3pMk3hmgcZ8lLed0dzI");
+              .setOAuthConsumerKey("######################")
+              .setOAuthConsumerSecret("######################")
+              .setOAuthAccessToken("############################################")
+              .setOAuthAccessTokenSecret("############################################");
              TwitterFactory tf = new TwitterFactory(cb.build());
              Twitter twitter = tf.getInstance();
          
